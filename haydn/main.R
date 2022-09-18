@@ -49,6 +49,8 @@ available_works <-
              else stop("Inconsistency detected")
   )
 
+works %>% filter(mh == "525")
+
 
 # Save results ------------------------------------------------------------
 
