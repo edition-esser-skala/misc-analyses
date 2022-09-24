@@ -29,6 +29,7 @@ works <-
     "data/works A-Ed.ods",   "A-Ed",
     "data/works A-Wn.ods",   "A-Wn",
     "data/works A-Wst.ods",  "A-Wst",
+    "data/works CZ-Pu.ods",  "CZ-Pu",
     "data/works D-Eu.ods",   "D-Eu",
     "data/works D-KA.ods",   "D-KA",
     "data/works D-Mbs.ods",  "D-Mbs",
